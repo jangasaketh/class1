@@ -1,0 +1,14 @@
+This page is mainly dedicated to all the links realated to devops projects , classes , git hub links , youtube links , linkedin links 
+
+
+Devops projects links :
+Github
+https://github.com/KubeKode/DevOps-Projects
+
+youtube link:
+1. Complete CI/CD with Terraform and AWS | Terraform Tutorial | DevOps Project | AWS | Cloud-Native
+https://www.youtube.com/watch?v=5sZAx2ylsOo&t=520s
+2.Complete CI/CD with Terraform and Kubernetes | Kubernetes Tutorial | DevOps Project | Terraform 
+https://www.youtube.com/watch?v=u59WdYrkiJI&t=139s
+3.Deploy React App to Kubernetes on GKE using IAC(PULUMI) | Kubernetes | GCP | DevOps | Cloud-Native
+https://www.youtube.com/watch?v=IbA5JnnFGAI
